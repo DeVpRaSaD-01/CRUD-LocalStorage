@@ -1,0 +1,19 @@
+body{
+    background: #1d2630;
+}
+
+*{
+    color:#fff;
+}
+
+#Update{
+    display: none;
+}
+
+#crudTable {
+    background-color: #1d2630;
+}
+
+#crudTable th, #crudTable td {
+    border-color: #444; /* Optional: Adjust border color for better contrast */
+}
